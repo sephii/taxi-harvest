@@ -1,0 +1,4 @@
+/taxi_harvest.egg-info/
+/dist/
+/build/
+*.pyc
